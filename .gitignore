@@ -1,41 +1,30 @@
-# Compiled Lua sources
-luac.out
+# 🚀 Roblox Fly GUI Script
 
-# luarocks build files
-*.src.rock
-*.zip
-*.tar.gz
+Simple Fly GUI script for Roblox executed using `loadstring`.
 
-# Object files
-*.o
-*.os
-*.ko
-*.obj
-*.elf
+## 📜 Script
 
-# Precompiled Headers
-*.gch
-*.pch
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/10778390-a11y/fly-script/main/fly.lua"))()
+```
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-*.def
-*.exp
+## ✨ Features
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+* Button to enable/disable flying
+* Smooth camera-based control
+* Easy to use
+* Lightweight code
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+## 📦 Installation
 
+1. Copy the `loadstring`
+2. Paste it into your executor
+3. Run the script
+
+## ⚠️ Note
+
+This script is for educational purposes only.
+
+## 👤 Author
+
+* GitHub: https://github.com/10778390-a11y
